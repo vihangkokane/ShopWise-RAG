@@ -1,0 +1,2 @@
+No third-party source code from the downloaded archive has been copied into this implementation.
+Before adding external code, images, datasets, or other assets, verify their license and attribution requirements.
